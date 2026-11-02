@@ -39,7 +39,7 @@ This project is deployed on Netlify and is configured for fast and reliable host
 
 ## 👤 Author
 
-Created by Guru Prasad
+Created by Guruprasad H D
 
 ## 📎 Notes
 

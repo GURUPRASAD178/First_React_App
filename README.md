@@ -1,4 +1,4 @@
-# 🚀 Guru Prasad | React Portfolio
+# 🚀 Guruprasad H D| React Portfolio
 
 A modern personal portfolio website built with React and deployed on Netlify. It presents my projects, skills, and contact details in a clean, responsive, and visually appealing layout.
 

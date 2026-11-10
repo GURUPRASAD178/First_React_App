@@ -1,50 +1,54 @@
-# 🚀 Guruprasad H D| React Portfolio
+# Guruprasad H D | React Portfolio
 
-A modern personal portfolio website built with React and deployed on Netlify. It presents my projects, skills, and contact details in a clean, responsive, and visually appealing layout.
+A personal portfolio built with React. It presents projects, skills, and contact information in a responsive layout.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-4f46e5?style=for-the-badge)](https://guruprasad-react-portfolio.netlify.app/)
 [![Netlify](https://img.shields.io/badge/Deployment-Netlify-00C7B7?style=for-the-badge)](https://www.netlify.com/)
 
-## 🌐 Live Portfolio
+## Live portfolio
 
-Visit the live site here:
+Visit [the deployed site](https://guruprasad-react-portfolio.netlify.app/).
 
-https://guruprasad-react-portfolio.netlify.app/
-
-## ✨ Features
+## Features
 
 - Responsive and mobile-friendly layout
-- Clean and modern portfolio design
-- Skills and project showcase
-- About section for personal profile
-- Contact section for communication
-- Smooth user experience with React
-- Deployment-ready for Netlify
+- Home, About, Projects, Contact, and Certifications pages
+- Responsive navigation and social profile links
+- Motion effects on the home page
 
-## 🛠️ Tech Stack
+## Tech stack
 
 - React
 - JavaScript
-- HTML5
-- CSS3
-- Netlify
+- Vite
+- React Router
+- CSS
 
-## 📌 Overview
+## Run locally
 
-This portfolio website is designed to help present work, skills, and professional identity in a polished and professional way. The interface is crafted to be simple, elegant, and easy to navigate across different screen sizes.
+Install [Node.js](https://nodejs.org/), then run these commands from the repository root:
 
-## 🚀 Deployment
+```powershell
+npm install
+npm run dev
+```
 
-This project is deployed on Netlify and is configured for fast and reliable hosting.
+Create a production build with `npm run build`. Vite writes it to `dist/`.
 
-## 👤 Author
+## Project structure
 
-Created by Guruprasad H D
+- `src/App.jsx` — routes and shared page layout
+- `src/components/` — navigation and footer
+- `src/pages/` — portfolio pages
+- `src/styles.css` — responsive site styling
+- `public/` — logos and image assets
 
-## 📎 Notes
+The contact form is presentation-only until connected to a mail or backend service. The old client-side admin route is not included; frontend-only credentials are not a safe authentication mechanism.
 
-This repository contains the portfolio project build and deployment assets for the React app.
+## Author
+
+Created by Guruprasad H D.
 
 ---
 
-Made with ❤️ using React.
+Made with React.

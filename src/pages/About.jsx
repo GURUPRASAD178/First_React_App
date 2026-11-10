@@ -7,8 +7,8 @@ export default function About() {
         <img src="/images/profile.jpeg" alt="Guruprasad H D" className="profile-pic" />
         <div>
           <p>
-            Hi, I’m Guruprasad H D, a Computer Science student at Government
-            Engineering College, Hassan, Karnataka, India. I’m passionate about
+            Hi, I’m Guruprasad H D, a Computer Science student at University Visvesvaraya College of
+            Engineering, Bengaluru, Karnataka, India. I’m passionate about
             software development, web design, and technology projects.
           </p>
           <dl className="about-details">
@@ -18,11 +18,11 @@ export default function About() {
             </div>
             <div>
               <dt>Location</dt>
-              <dd>Hassan, Karnataka, India</dd>
+              <dd>Bengaluru, Karnataka, India</dd>
             </div>
             <div>
               <dt>Education</dt>
-              <dd>B.E. Computer Science</dd>
+              <dd>M.Tech in Computer Science</dd>
             </div>
             <div>
               <dt>Experience</dt>

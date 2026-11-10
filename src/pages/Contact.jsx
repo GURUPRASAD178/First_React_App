@@ -17,9 +17,7 @@ export default function Contact() {
           <textarea name="message" rows="5" required />
         </label>
         <button type="submit">Send</button>
-        <p className="form-note">
-          This form needs a contact service or backend to deliver messages.
-        </p>
+
       </form>
     </section>
   );
